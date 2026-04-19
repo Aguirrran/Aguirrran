@@ -1,42 +1,41 @@
-# Hi, I'm Christian
+# 👋 Hi, I'm Christian Aguirre
 
-I’ve been interested in technology since I was a kid, spending hours on computers and gaming consoles. That curiosity grew into a passion for understanding how things work behind the scenes and led me to pursue a career in tech.
-
-My interest deepened after seeing my older sibling go into computer engineering, which inspired me to explore the field myself. Since then, I’ve developed a strong interest in programming and problem-solving, especially in areas like game development.
+CS Student @ UIC | C++ Developer | Data Structures | Interested in Game Development
 
 ---
 
-## Education
-- University of Illinois Chicago (UIC)  
-- College of Engineering  
-- Expected Graduation: Spring 2028  
-
----
-
-##  Skills
+## 🛠️ Tech Stack
 
 **Languages:**  
-- C++  
-- Java  
-- Lua  
-- C  
-- HTML / CSS  
+C++ · Java · Lua · C · HTML · CSS  
 
-**Relevant Coursework:**  
-- Data Structures  
-- Discrete Mathematics  
+**Developer Tools:**  
+Git · GitHub · VS Code · Valgrind · AddressSanitizer · Google Test  
+
+**Game Development:**  
+Unity · Blender (basic)  
 
 ---
 
-## Interests
-- Game Development  
-- Software Engineering  
-- Building projects from scratch  
-- Understanding systems at a deeper level  
+## 🚀 Projects
+
+🟩 **Wordle Solver**  
+C++ Wordle solver that finds valid words using efficient search techniques and custom data structures.
+
+📚 **Custom Data Structures (Lists)**  
+Implemented a singly linked list and circular vector from scratch in C++, including dynamic resizing, deep copy, and full unit testing.
 
 ---
 
-##  Goals
-- Continue improving my programming skills  
-- Build impactful and creative projects  
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-aguirre1/)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Christian.aguirre5810@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aguirrran)
+
+---
+
+## 📌 Goals
+- Improve problem-solving and system design skills  
+- Build impactful and scalable projects  
 - Gain experience through internships and collaboration  
