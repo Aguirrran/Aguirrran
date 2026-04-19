@@ -13,7 +13,7 @@ My interest deepened after seeing my older sibling go into computer engineering,
 
 ---
 
-## 💻 Skills
+##  Skills
 
 **Languages:**  
 - C++  
